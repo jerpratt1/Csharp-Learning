@@ -55,7 +55,5 @@ namespace TaxCalc {
             roundedTotal = Convert.ToInt32(grandtotal); // But I prefer to use the ToInt32 method
             this.Text = roundedTotal.ToString();
         }
-
-
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\bin\Debug\TaxCalc.exe.config
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\bin\Debug\TaxCalc.exe
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\bin\Debug\TaxCalc.pdb
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.csproj.AssemblyReference.cache
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.Form1.resources
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.Properties.Resources.resources
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.csproj.GenerateResource.cache
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.csproj.CoreCompileInputs.cache
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.exe
+C:\Users\Jerpr\Documents\GitHub\csharp\Csharp-Learning\CSharpProjects\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.pdb
